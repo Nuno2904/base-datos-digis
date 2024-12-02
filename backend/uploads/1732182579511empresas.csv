@@ -1,0 +1,6 @@
+NIF,Nombre,Direccion,Sector,Tamano,Telefono,Web,Correo,Valoracion_Contacto,Posibilidad_Acuerdo
+A12345678,Empresa 1,Calle Falsa 123,Tecnología,Pequeña,123456789,www.empresa1.com,contacto@empresa1.com,8,True
+B98765432,Empresa 2,Avenida Siempreviva 742,Salud,Mediana,987654321,www.empresa2.com,contacto@empresa2.com,6,False
+C87654321,Empresa 3,Plaza Mayor 10,Finanzas,Grande,567890123,www.empresa3.com,contacto@empresa3.com,7,True
+D23456789,Empresa 4,Calle del Sol 5,Educación,Pequeña,678901234,www.empresa4.com,contacto@empresa4.com,9,True
+E34567890,Empresa 5,Calle Luna 8,Energía,Grande,234567890,www.empresa5.com,contacto@empresa5.com,5,False
